@@ -1,0 +1,36 @@
+﻿<Window x:Class="Prog_Poe_Part_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Prog_Poe_Part_2"
+        mc:Ignorable="d"
+        Title="Register/Login" Height="450" Width="800">
+    <Border>
+        <Border.Background>
+            <ImageBrush ImageSource="/Images/pexels-francesco-ungaro-281260.jpg"/>
+        </Border.Background>
+        <Grid>
+            <Label Content="REGISTER" HorizontalAlignment="Left" Margin="108,42,0,0" VerticalAlignment="Top" FontStyle="Oblique" FontSize="16" />
+            <Label Content="LOGIN" HorizontalAlignment="Left" Margin="572,42,0,0" VerticalAlignment="Top" FontStyle="Oblique" FontSize="16"/>
+            <TextBox HorizontalAlignment="Left" Margin="65,131,0,0" TextWrapping="Wrap" Text="UserName" Name="tbUser" VerticalAlignment="Top" Width="174" Height="27" TextAlignment="Center" FontStyle="Oblique" GotFocus="tbUser_GotFocus" LostFocus="tbUser_LostFocus"/>
+            <TextBox HorizontalAlignment="Left" Margin="66,217,0,0" TextWrapping="Wrap" Text="Password" Name="tbPassword" VerticalAlignment="Top" Width="174" Height="27" FontStyle="Oblique" TextAlignment="Center" GotFocus="tbPassword_GotFocus" LostFocus="tbPassword_LostFocus"/>
+            <TextBox HorizontalAlignment="Left" Margin="513,131,0,0" TextWrapping="Wrap" Text="UserName" Name="tbUser1" VerticalAlignment="Top" Width="174" Height="27" TextAlignment="Center" FontStyle="Oblique" GotFocus="tbUser1_GotFocus" LostFocus="tbUser1_LostFocus"/>
+            <TextBox HorizontalAlignment="Left" Margin="513,217,0,0" TextWrapping="Wrap" Text="Password" Name="tbPassWord1" VerticalAlignment="Top" Width="174" Height="27" FontStyle="Oblique" TextAlignment="Center" GotFocus="tbPassWord1_GotFocus" LostFocus="tbPassWord1_LostFocus"/>
+            <Label Content="Register If You Do Not Have An Existing Account" HorizontalAlignment="Left" Margin="35,78,0,0" VerticalAlignment="Top" FontStyle="Oblique" Foreground="DarkRed"/>
+            <Label Content="Log Into An Existing Account" HorizontalAlignment="Left" Margin="525,78,0,0" VerticalAlignment="Top" FontStyle="Oblique" Foreground="DarkRed"/>
+            <Button Content="REGISTER" Name="btnRegister" HorizontalAlignment="Left" Margin="106,294,0,0" VerticalAlignment="Top" FontStyle="Oblique" Width="92" Click="btnRegister_Click" Height="31">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+            </Button>
+            <Button Content="LOGIN" Name="btnLogin" HorizontalAlignment="Left" Margin="561,294,0,0" VerticalAlignment="Top" FontStyle="Oblique" Width="91" Click="btnLogin_Click" Height="31">
+                <Button.Background>
+                    <ImageBrush/>
+                </Button.Background>
+
+            </Button>
+
+        </Grid>
+    </Border>
+</Window>

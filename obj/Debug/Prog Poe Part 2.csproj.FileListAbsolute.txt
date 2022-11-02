@@ -1,0 +1,27 @@
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\Prog Poe Part 2.exe.config
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\Prog Poe Part 2.exe
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\Prog Poe Part 2.pdb
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\EntityFramework.dll
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\Library POE PART 1.dll
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\EntityFramework.xml
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\Library POE PART 1.pdb
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.csproj.AssemblyReference.cache
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Home.g.cs
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\MainWindow.g.cs
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\App.g.cs
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2_MarkupCompile.cache
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2_MarkupCompile.lref
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Home.baml
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\MainWindow.baml
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.g.resources
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog_Poe_Part_2.Properties.Resources.resources
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.csproj.GenerateResource.cache
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.csproj.CoreCompileInputs.cache
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.csproj.CopyComplete
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.exe
+C:\Users\Thileshan\source\repos\Prog Poe Part 2\obj\Debug\Prog Poe Part 2.pdb
